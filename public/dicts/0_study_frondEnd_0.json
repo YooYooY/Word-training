@@ -1,0 +1,169 @@
+[
+    {
+        "name": "numeric",
+        "trans": [
+            "数字的",
+            "数值的"
+        ],
+        "usphone": "nuˈmɛrɪk",
+        "ukphone": "njuːˈmɛrɪk"
+    },
+    {
+        "name": "integer",
+        "trans": [
+            "整数"
+        ],
+        "usphone": "ˈɪntɪdʒər",
+        "ukphone": "ˈɪntɪdʒər"
+    },
+    {
+        "name": "precision",
+        "trans": [
+            "精确",
+            "准确度"
+        ],
+        "usphone": "prɪˈsɪʒən",
+        "ukphone": "prɪˈsɪʒən"
+    },
+    {
+        "name": "manipulate",
+        "trans": [
+            "操纵",
+            "操作"
+        ],
+        "usphone": "məˈnɪpjəˌleɪt",
+        "ukphone": "məˈnɪpjʊleɪt"
+    },
+    {
+        "name": "stack",
+        "trans": [
+            "堆栈"
+        ],
+        "usphone": "stæk",
+        "ukphone": "stæk"
+    },
+    {
+        "name": "Heap",
+        "trans": [
+            "堆"
+        ],
+        "usphone": "hip",
+        "ukphone": "hiːp"
+    },
+    {
+        "name": "segment",
+        "trans": [
+            "段",
+            "部分"
+        ],
+        "usphone": "ˈsɛɡmənt",
+        "ukphone": "ˈsegmənt"
+    },
+    {
+        "name": "occupy",
+        "trans": [
+            "占据",
+            "占用"
+        ],
+        "usphone": "ˈɑkjupaɪ",
+        "ukphone": "ˈɒkjʊpaɪ"
+    },
+    {
+        "name": "entity",
+        "trans": [
+            "实体",
+            "单位"
+        ],
+        "usphone": "ˈɛntɪti",
+        "ukphone": "ˈentɪti"
+    },
+    {
+        "name": "interpreter",
+        "trans": [
+            "解释器",
+            "翻译者"
+        ],
+        "usphone": "ɪnˈtɜːrprɪtər",
+        "ukphone": "ɪnˈtɜːprɪtər"
+    },
+    {
+        "name": "retrieve",
+        "trans": [
+            "检索",
+            "取回"
+        ],
+        "usphone": "rɪˈtriːv",
+        "ukphone": "rɪˈtriːv"
+    },
+    {
+        "name": "access",
+        "trans": [
+            "访问",
+            "接入",
+            "存取(计算机文件)"
+        ],
+        "usphone": "ˈæksɛs",
+        "ukphone": "ˈæksɛs"
+    },
+    {
+        "name": "queue",
+        "trans": [
+            "队列"
+        ],
+        "usphone": "kjuː",
+        "ukphone": "kjuː"
+    },
+    {
+        "name": "automatically",
+        "trans": [
+            "自动地",
+            "自动化地"
+        ],
+        "usphone": "ˌɔːtəˈmætɪkli",
+        "ukphone": "ˌɔːtəˈmætɪkli"
+    },
+    {
+        "name": "allocate",
+        "trans": [
+            "分配",
+            "分派"
+        ],
+        "usphone": "ˈæləˌkeɪt",
+        "ukphone": "ˈæləkeɪt"
+    },
+    {
+        "name": "compiler",
+        "trans": [
+            "编译器"
+        ],
+        "usphone": "kəmˈpaɪlər",
+        "ukphone": "kəmˈpaɪlər"
+    },
+    {
+        "name": "parameter",
+        "trans": [
+            "参数",
+            "参量"
+        ],
+        "usphone": "pəˈræmɪtər",
+        "ukphone": "pəˈræmɪtər"
+    },
+    {
+        "name": "reclaim",
+        "trans": [
+            "回收",
+            "取回"
+        ],
+        "usphone": "rɪˈkleɪm",
+        "ukphone": "rɪˈkleɪm"
+    },
+    {
+        "name": "mechanism",
+        "trans": [
+            "机制",
+            "机构"
+        ],
+        "usphone": "ˈmɛkəˌnɪzəm",
+        "ukphone": "ˈmɛkəˌnɪzəm"
+    }
+]
