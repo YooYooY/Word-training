@@ -1,0 +1,92 @@
+[
+    {
+        "name": "genuine",
+        "trans": [
+            "真正的",
+            "真实的"
+        ],
+        "usphone": "ˈdʒɛnjuɪn",
+        "ukphone": "ˈdʒɛnjuɪn"
+    },
+    {
+        "name": "physical",
+        "trans": [
+            "身体的",
+            "物理的"
+        ],
+        "usphone": "ˈfɪzɪkl̩",
+        "ukphone": "ˈfɪzɪkl̩"
+    },
+    {
+        "name": "valuable",
+        "trans": [
+            "有价值的",
+            "宝贵的"
+        ],
+        "usphone": "ˈvæljuəbl̩",
+        "ukphone": "ˈvæljuəbl̩"
+    },
+    {
+        "name": "distribution",
+        "trans": [
+            "分配",
+            "分布"
+        ],
+        "usphone": "ˌdɪstrɪˈbjuʃən",
+        "ukphone": "ˌdɪstrɪˈbjuːʃən"
+    },
+    {
+        "name": "interconnectedness",
+        "trans": [
+            "相互连接",
+            "互相关联"
+        ],
+        "usphone": "ˌɪntərkəˈnɛktɪdnəs",
+        "ukphone": "ˌɪntərkəˈnɛktɪdnəs"
+    },
+    {
+        "name": "urban",
+        "trans": [
+            "城市的",
+            "都市的"
+        ],
+        "usphone": "ˈɜrbən",
+        "ukphone": "ˈɜːbən"
+    },
+    {
+        "name": "engaging",
+        "trans": [
+            "引人入胜的",
+            "有吸引力的"
+        ],
+        "usphone": "ɪnˈɡeɪdʒɪŋ",
+        "ukphone": "ɪnˈɡeɪdʒɪŋ"
+    },
+    {
+        "name": "relevant",
+        "trans": [
+            "相关的",
+            "切题的"
+        ],
+        "usphone": "ˈrɛləvənt",
+        "ukphone": "ˈrɛləvənt"
+    },
+    {
+        "name": "aspiration",
+        "trans": [
+            "抱负",
+            "志向"
+        ],
+        "usphone": "ˌæspəˈreɪʃən",
+        "ukphone": "ˌæspəˈreɪʃən"
+    },
+    {
+        "name": "sparking",
+        "trans": [
+            "引发",
+            "激起"
+        ],
+        "usphone": "ˈspɑrkɪŋ",
+        "ukphone": "ˈspɑːrkɪŋ"
+    }
+]

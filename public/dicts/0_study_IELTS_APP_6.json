@@ -1,0 +1,108 @@
+[
+    {
+        "name": "considerate",
+        "trans": ["体贴的", "考虑周到的"],
+        "usphone": "kənˈsɪdərət",
+        "ukphone": "kənˈsɪdərət"
+    },
+    {
+        "name": "community",
+        "trans": ["社区", "社会"],
+        "usphone": "kəˈmjuːnəti",
+        "ukphone": "kəˈmjuːnəti"
+    },
+    {
+        "name": "assistance",
+        "trans": ["帮助", "援助"],
+        "usphone": "əˈsɪstəns",
+        "ukphone": "əˈsɪstəns"
+    },
+    {
+        "name": "range from",
+        "trans": ["涵盖", "包括"]
+    },
+    {
+        "name": "errand",
+        "trans": ["差事", "使命"],
+        "usphone": "ˈɛrənd",
+        "ukphone": "ˈerənd"
+    },
+    {
+        "name": "elderly",
+        "trans": ["年长的", "老年的"],
+        "usphone": "ˈɛldərli",
+        "ukphone": "ˈɛldərli"
+    },
+    {
+        "name": "emotional",
+        "trans": ["情感的", "感情的"],
+        "usphone": "ɪˈmoʊʃənl",
+        "ukphone": "ɪˈməʊʃənl"
+    },
+    {
+        "name": "significant",
+        "trans": ["重要的", "显著的"],
+        "usphone": "sɪɡˈnɪfɪkənt",
+        "ukphone": "sɪɡˈnɪfɪkənt"
+    },
+    {
+        "name": "instill",
+        "trans": ["灌输", "逐渐滴入"],
+        "usphone": "ɪnˈstɪl",
+        "ukphone": "ɪnˈstɪl"
+    },
+    {
+        "name": "empathy",
+        "trans": ["同理心", "共情"],
+        "usphone": "ˈɛmpəθi",
+        "ukphone": "ˈɛmpəθi"
+    },
+    {
+        "name": "tremendous",
+        "trans": ["巨大的", "极大的"],
+        "usphone": "trɪˈmɛndəs",
+        "ukphone": "trɪˈmendəs"
+    },
+    {
+        "name": "guidance",
+        "trans": ["指导", "引导"],
+        "usphone": "ˈɡaɪdəns",
+        "ukphone": "ˈɡaɪdəns"
+    },
+    {
+        "name": "assisting",
+        "trans": ["协助", "帮助"],
+        "usphone": "əˈsɪstɪŋ",
+        "ukphone": "əˈsɪstɪŋ"
+    },
+    {
+        "name": "grocery",
+        "trans": ["杂货", "食品杂货"],
+        "usphone": "ˈɡroʊsəri",
+        "ukphone": "ˈɡrəʊsəri"
+    },
+    {
+        "name": "mow",
+        "trans": ["割（草）", "修剪"],
+        "usphone": "moʊ",
+        "ukphone": "məʊ"
+    },
+    {
+        "name": "lawn",
+        "trans": ["草坪", "草地"],
+        "usphone": "lɔn",
+        "ukphone": "lɔːn"
+    },
+    {
+        "name": "alleviate",
+        "trans": ["减轻", "缓解"],
+        "usphone": "əˈlivɪˌeɪt",
+        "ukphone": "əˈliːvɪeɪt"
+    },
+    {
+        "name": "loneliness",
+        "trans": ["孤独", "寂寞"],
+        "usphone": "ˈloʊnlinɪs",
+        "ukphone": "ˈləʊnlinɪs"
+    }
+]

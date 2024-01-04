@@ -1,0 +1,151 @@
+[
+     {
+        "name": "accommodation",
+        "trans": [
+            "n. 住宿;膳宿;调解;和解",
+            "v. 供应住宿;调解;和解;顺应"
+        ],
+        "usphone": "əˌkɑməˈdeɪʃən",
+        "ukphone": "əˌkɒməˈdeɪʃən"
+    },
+    {
+        "name": "fluency",
+        "trans": [
+            "n. 流利;流畅;流利性;顺畅"
+        ],
+        "usphone": "ˈfluənsi",
+        "ukphone": "ˈfluːənsi"
+    },
+    {
+        "name": "coherence",
+        "trans": [
+            "n. 一致;连贯;连贯性;凝聚"
+        ],
+        "usphone": "/koʊˈhɪrəns/",
+        "ukphone": "/kəʊˈhɪərəns/"
+    },
+    {
+        "name": "lexical",
+        "trans": [
+            "adj. 词汇的;词典的;字汇的;用字的"
+        ],
+        "usphone": "ˈlɛksɪkəl",
+        "ukphone": "ˈleksɪkəl"
+    },
+    {
+        "name": "grammatical",
+        "trans": [
+            "adj. 语法的;文法的;合乎文法的;符合语法规则的"
+        ],
+        "usphone": "ɡrəˈmætɪkəl",
+        "ukphone": "ɡrəˈmætɪkl̩"
+    },
+    {
+        "name": "accuracy",
+        "trans": [
+            "n. 准确性;精确;正确;精密度"
+        ],
+        "usphone": "ˈækjərəsi",
+        "ukphone": "ˈækjərəsi"
+    },
+    {
+        "name": "pronunciation",
+        "trans": [
+            "n. 发音;发音法;发音方式;发音诀"
+        ],
+        "usphone": "prəˌnʌnsiˈeɪʃən",
+        "ukphone": "prəˌnʌnsiˈeɪʃən"
+    },
+    {
+        "name": "phenomenon",
+        "trans": [
+            "n. 现象;奇迹;非凡的人;奇事"
+        ],
+        "usphone": "fəˈnɑməˌnɑn",
+        "ukphone": "fəˈnɒmɪnən"
+    },
+    {
+        "name": "idiom",
+        "trans": [
+            "n. 习语;成语;方言;土话"
+        ],
+        "usphone": "ˈɪdiəm",
+        "ukphone": "ˈɪdiəm"
+    },
+    {
+        "name": "majoring",
+        "trans": [
+            "v. 专攻;主修;重点关注;主要从事"
+        ]
+    },
+    {
+        "name": "bachelor",
+        "trans": [
+            "n. 学士;单身汉;未婚男子;度过单身生活的人"
+        ],
+        "usphone": "ˈbæʧələr",
+        "ukphone": "ˈbætʃələ"
+    },
+    {
+        "name": "civil servant",
+        "trans": [
+            "n. 公务员;文官;公务人员;政府雇员"
+        ],
+        "usphone": "ˈsɪvəl ˈsɜrvənt",
+        "ukphone": "ˈsɪvl ˈsɜːvənt"
+    },
+    {
+        "name": "currently",
+        "trans": [
+            "adv. 目前;当前;现在;普遍地"
+        ],
+        "usphone": "ˈkɜrəntli",
+        "ukphone": "ˈkʌrəntli"
+    },
+    {
+        "name": "involve",
+        "trans": [
+            "v. 包括;牵涉;涉及;参与"
+        ],
+        "usphone": "ɪnˈvɑlv",
+        "ukphone": "ɪnˈvɒlv"
+    },
+    {
+        "name": "great demand",
+        "trans": [
+            "巨大需求"
+        ]
+    },
+    {
+        "name": "good benefit",
+        "trans": [
+            "良好的福利"
+        ]
+    },
+    {
+        "name": "well paid",
+        "trans": [
+            "薪酬丰厚"
+        ]
+    },
+    {
+        "name": "job security",
+        "trans": [
+            "工作稳定性;职业安全"
+        ]
+    },
+    {
+        "name": "qualification",
+        "trans": [
+            "n. 资格;资历;资格证书;合格"
+        ],
+        "usphone": "ˌkwɑləfəˈkeɪʃən",
+        "ukphone": "ˌkwɒlɪfɪˈkeɪʃən"
+    },
+    {
+        "name": "multi national company",
+        "trans": [
+            "跨国公司;多国公司"
+        ]
+    }
+]

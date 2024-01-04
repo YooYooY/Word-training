@@ -1,0 +1,162 @@
+[
+    {
+        "name": "aquarium",
+        "trans": [
+            "n. 水族馆"
+        ],
+        "usphone": "ˌækwɛəˈriəm",
+        "ukphone": "ˌækwɛəˈrɪəm"
+    },
+    {
+        "name": "oceanarium",
+        "trans": [
+            "n. 海洋馆"
+        ],
+        "usphone": "ˌoʊʃəˈnɛriəm",
+        "ukphone": "ˌəʊʃəˈneəriəm"
+    },
+    {
+        "name": "exaggeration",
+        "trans": [
+            "n. 夸张"
+        ],
+        "usphone": "ɪɡˌzædʒəˈreɪʃən",
+        "ukphone": "ɪɡˌzædʒəˈreɪʃən"
+    },
+    {
+        "name": "recreational",
+        "trans": [
+            "adj. 娱乐的;消遣的"
+        ],
+        "usphone": "ˌrɛkrɪˈeɪʃənl",
+        "ukphone": "ˌrɛkrɪˈeɪʃənl"
+    },
+    {
+        "name": "commercial",
+        "trans": [
+            "adj. 商业的;营利的"
+        ],
+        "usphone": "kəˈmɜrʃəl",
+        "ukphone": "kəˈmɜːʃəl"
+    },
+    {
+        "name": "protein",
+        "trans": [
+            "n. 蛋白质"
+        ],
+        "usphone": "ˈproʊtin",
+        "ukphone": "ˈprəʊtiːn"
+    },
+    {
+        "name": "essential",
+        "trans": [
+            "adj. 必要的;基本的;本质的"
+        ],
+        "usphone": "ɪˈsɛnʃəl",
+        "ukphone": "ɪˈsɛnʃəl"
+    },
+    {
+        "name": "nutrient",
+        "trans": [
+            "n. 营养物;养分"
+        ],
+        "usphone": "ˈnutriənt",
+        "ukphone": "ˈnjuːtriənt"
+    },
+    {
+        "name": "grill",
+        "trans": [
+            "n. 烤架;烧烤店"
+        ],
+        "usphone": "ɡrɪl",
+        "ukphone": "ɡrɪl"
+    },
+    {
+        "name": "fried",
+        "trans": [
+            "adj. 油炸的;油煎的"
+        ],
+        "usphone": "fraɪd",
+        "ukphone": "fraɪd"
+    },
+    {
+        "name": "sushi",
+        "trans": [
+            "n. 寿司"
+        ],
+        "usphone": "ˈsuʃi",
+        "ukphone": "ˈsuʃi"
+    },
+    {
+        "name": "snorkeling",
+        "trans": [
+            "n. 浮潜"
+        ],
+        "usphone": "ˈsnɔːrkəlɪŋ",
+        "ukphone": "ˈsnɔːklɪŋ"
+    },
+    {
+        "name": "coral reef",
+        "trans": [
+            "n. 珊瑚礁"
+        ],
+        "usphone": "ˌkɔːrəl ˈriːf",
+        "ukphone": "ˌkɒrəl riːf"
+    },
+    {
+        "name": "a dazzling variety",
+        "trans": [
+            "令人眼花缭乱的多样性"
+        ],
+        "usphone": "ə ˈdæzlɪŋ vəˈraɪəti",
+        "ukphone": "ə ˈdæzlɪŋ vəˈraɪəti"
+    },
+    {
+        "name": "habitat",
+        "trans": [
+            "n. 栖息地;住所"
+        ],
+        "usphone": "ˈhæbɪtæt",
+        "ukphone": "ˈhæbɪtæt"
+    },
+    {
+        "name": "prominently",
+        "trans": [
+            "adv. 显著地;突出地"
+        ],
+        "usphone": "ˈprɑːmɪnəntli",
+        "ukphone": "ˈprɒmɪnəntli"
+    },
+    {
+        "name": "sequel",
+        "trans": [
+            "n. 续集;续篇"
+        ],
+        "usphone": "ˈsiːkwəl",
+        "ukphone": "ˈsiːkwəl"
+    },
+    {
+        "name": "entertaining",
+        "trans": [
+            "adj. 有趣的;娱乐的"
+        ],
+        "usphone": "ˌɛntərˈteɪnɪŋ",
+        "ukphone": "ˌɛntəˈteɪnɪŋ"
+    },
+    {
+        "name": "convey",
+        "trans": [
+            "v. 传达;表达;运输"
+        ],
+        "usphone": "kənˈveɪ",
+        "ukphone": "kənˈveɪ"
+    },
+    {
+        "name": "conservation",
+        "trans": [
+            "n. 保护;保育"
+        ],
+        "usphone": "ˌkɑːnsərˈveɪʃən",
+        "ukphone": "ˌkɒnsəˈveɪʃən"
+    }
+]

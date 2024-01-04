@@ -1,0 +1,202 @@
+[
+  {
+    "name": "aggregation",
+    "trans": ["聚合、聚集"]
+  },
+  {
+    "name": "algorithm",
+    "trans": ["算法"]
+  },
+  {
+    "name": "align",
+    "trans": ["排列、对齐"]
+  },
+  {
+    "name": "allocate",
+    "trans": ["分配、配置"]
+  },
+  {
+    "name": "allocator",
+    "trans": ["分配器、配置器"]
+  },
+  {
+    "name": "angle bracket",
+    "trans": ["尖括号"]
+  },
+  {
+    "name": "annotation",
+    "trans": ["注解、评注"]
+  },
+  {
+    "name": "API (Application Programming Interface)",
+    "trans": ["应用（程序）编程接口"]
+  },
+  {
+    "name": "appearance",
+    "trans": ["外观"]
+  },
+  {
+    "name": "append",
+    "trans": ["附加"]
+  },
+  {
+    "name": "application",
+    "trans": ["应用、应用程序"]
+  },
+  {
+    "name": "application framework",
+    "trans": ["应用程序框架"]
+  },
+  {
+    "name": "architecture",
+    "trans": ["架构、体系结构"]
+  },
+  {
+    "name": "archive file",
+    "trans": ["归档文件、存档文件"]
+  },
+  {
+    "name": "argument",
+    "trans": ["参数"]
+  },
+  {
+    "name": "array",
+    "trans": ["数组"]
+  },
+  {
+    "name": "arrow operator",
+    "trans": ["箭头操作符"]
+  },
+  {
+    "name": "asset（ion）",
+    "trans": ["断言"]
+  },
+  {
+    "name": "assign",
+    "trans": ["赋值"]
+  },
+  {
+    "name": "assignment operator",
+    "trans": ["赋值操作符"]
+  },
+  {
+    "name": "assignment",
+    "trans": ["赋值、分配"]
+  },
+  {
+    "name": "associated",
+    "trans": ["相关的、相关联的"]
+  },
+  {
+    "name": "attribute",
+    "trans": ["特性、属性"]
+  },
+  {
+    "name": "prioritize",
+    "trans": ["划分优先顺序； 优先处理"]
+  },
+  {
+    "name": "authentication service",
+    "trans": ["验证服务"]
+  },
+  {
+    "name": "authorization",
+    "trans": ["授权"]
+  },
+  {
+    "name": "background",
+    "trans": ["背景、后台(进程)"]
+  },
+  {
+    "name": "backup",
+    "trans": ["备份"]
+  },
+  {
+    "name": "backup device",
+    "trans": ["备份设备"]
+  },
+  {
+    "name": "backup file",
+    "trans": ["备份文件"]
+  },
+  {
+    "name": "backward compatible",
+    "trans": ["向后兼容、向下兼容"]
+  },
+  {
+    "name": "base class",
+    "trans": ["基类"]
+  },
+  {
+    "name": "BCL (base class library)",
+    "trans": ["基类库"]
+  },
+  {
+    "name": "Bin Packing",
+    "trans": ["装箱问题"]
+  },
+  {
+    "name": "binary",
+    "trans": ["二进制"]
+  },
+  {
+    "name": "bit",
+    "trans": ["位"]
+  },
+  {
+    "name": "block",
+    "trans": ["块、区块、语句块"]
+  },
+  {
+    "name": "boolean",
+    "trans": ["布林值(真假值、true或false)"]
+  },
+  {
+    "name": "breakpoint",
+    "trans": ["断点"]
+  },
+  {
+    "name": "browser applications",
+    "trans": ["浏览器应用程序"]
+  },
+  {
+    "name": "browser-accessible application",
+    "trans": ["可经由浏览器访问的应用程序 bug 缺陷错误"]
+  },
+  {
+    "name": "built-in",
+    "trans": ["内建、内置"]
+  },
+  {
+    "name": "business",
+    "trans": ["业务、商务"]
+  },
+  {
+    "name": "business Logic",
+    "trans": ["业务逻辑"]
+  },
+  {
+    "name": "business rules",
+    "trans": ["业务规则"]
+  },
+  {
+    "name": "buttons",
+    "trans": ["按钮"]
+  },
+  {
+    "name": "byte",
+    "trans": ["位元组(由8 bits组成)"]
+  },
+  {
+    "name": "optimal",
+    "trans": ["adj.最优的;最佳的"]
+  },
+  {
+    "name": "symmetric",
+    "trans": ["adj.对称的"]
+  },
+  {
+    "name": "assumptions",
+    "trans": ["n.假定;假设;(责任的)承担;担任;(权力的)获得"]
+  }
+]

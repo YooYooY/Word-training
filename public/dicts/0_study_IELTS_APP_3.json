@@ -1,0 +1,181 @@
+[
+    {
+        "name": "prefer",
+        "trans": [
+            "更喜欢",
+            "偏爱"
+        ],
+        "usphone": "prɪˈfɜr",
+        "ukphone": "prɪˈfɜːr"
+    },
+    {
+        "name": "casual",
+        "trans": [
+            "休闲的",
+            "随便的"
+        ],
+        "usphone": "ˈkæʒuəl",
+        "ukphone": "ˈkæʒuəl"
+    },
+    {
+        "name": "stylish",
+        "trans": [
+            "时尚的",
+            "漂亮的"
+        ],
+        "usphone": "ˈstaɪlɪʃ",
+        "ukphone": "ˈstaɪlɪʃ"
+    },
+    {
+        "name": "ease attire",
+        "trans": [
+            "轻松的服装",
+            "舒适的穿着"
+        ],
+        "usphone": "iz əˈtaɪər",
+        "ukphone": "iːz əˈtaɪə"
+    },
+    {
+        "name": "smart clothes",
+        "trans": [
+            "整洁的衣服",
+            "得体的服装"
+        ],
+        "usphone": null,
+        "ukphone": null
+    },
+    {
+        "name": "occasions",
+        "trans": [
+            "场合",
+            "时机"
+        ],
+        "usphone": "əˈkeɪʒənz",
+        "ukphone": "əˈkeɪʒənz"
+    },
+    {
+        "name": "appropriate",
+        "trans": [
+            "合适的",
+            "适当的"
+        ],
+        "usphone": "əˈproʊpriət",
+        "ukphone": "əˈprəʊpriət"
+    },
+    {
+        "name": "wardrobe",
+        "trans": [
+            "衣柜",
+            "服装"
+        ],
+        "usphone": "ˈwɔrˌdroʊb",
+        "ukphone": "ˈwɔːdrəʊb"
+    },
+    {
+        "name": "practical",
+        "trans": [
+            "实际的",
+            "实用的"
+        ],
+        "usphone": "ˈpræktɪkəl",
+        "ukphone": "ˈpræktɪkəl"
+    },
+    {
+        "name": "do like",
+        "trans": [
+            "喜欢",
+            "喜爱"
+        ],
+        "usphone": null,
+        "ukphone": null
+    },
+    {
+        "name": "do enjoy",
+        "trans": [
+            "享受",
+            "喜欢"
+        ],
+        "usphone": null,
+        "ukphone": null
+    },
+    {
+        "name": "versatile",
+        "trans": [
+            "多才多艺的",
+            "多功能的"
+        ],
+        "usphone": "ˈvɜrsəˌtaɪl",
+        "ukphone": "ˈvɜːsətaɪl"
+    },
+    {
+        "name": "strike a balance",
+        "trans": [
+            "取得平衡",
+            "保持平衡"
+        ],
+        "usphone": null,
+        "ukphone": null
+    },
+    {
+        "name": "lean towards",
+        "trans": [
+            "倾向于",
+            "偏向于"
+        ],
+        "usphone": null,
+        "ukphone": null
+    },
+    {
+        "name": "jeans",
+        "trans": [
+            "牛仔裤"
+        ],
+        "usphone": "dʒinz",
+        "ukphone": "dʒiːnz"
+    },
+    {
+        "name": "trousers",
+        "trans": [
+            "裤子",
+            "长裤"
+        ],
+        "usphone": "ˈtraʊzərz",
+        "ukphone": "ˈtraʊzəz"
+    },
+    {
+        "name": "paired",
+        "trans": [
+            "搭配",
+            "配对"
+        ],
+        "usphone": null,
+        "ukphone": null
+    },
+    {
+        "name": "dress up",
+        "trans": [
+            "打扮",
+            "穿得漂漂亮亮"
+        ],
+        "usphone": null,
+        "ukphone": null
+    },
+    {
+        "name": "look put-together",
+        "trans": [
+            "看起来整齐",
+            "搭配得体"
+        ],
+        "usphone": null,
+        "ukphone": null
+    },
+    {
+        "name": "graphics",
+        "trans": [
+            "图形",
+            "图像"
+        ],
+        "usphone": "ˈɡræfɪks",
+        "ukphone": "ˈɡræfɪks"
+    }
+]

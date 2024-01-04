@@ -1,0 +1,686 @@
+[
+    {
+        "name": "commencement",
+        "trans": [
+            "n. 开始;毕业典礼;开端;学位授予典礼"
+        ],
+        "usphone": "kəˈmensmənt",
+        "ukphone": "kəˈmensmənt"
+    },
+    {
+        "name": "finest",
+        "trans": [
+            "adj. 最好的;优秀的;精美的"
+        ],
+        "usphone": "ˈfaɪnɪst",
+        "ukphone": "ˈfaɪnɪst"
+    },
+    {
+        "name": "drop out",
+        "trans": [
+            "中途退出;退学;辍学"
+        ],
+        "usphone": "drɑp aʊt",
+        "ukphone": "drɒp aʊt"
+    },
+    {
+        "name": "adoption",
+        "trans": [
+            "n. 采纳;收养;采用;采纳法"
+        ],
+        "usphone": "əˈdɑpʃən",
+        "ukphone": "əˈdɒpʃən"
+    },
+    {
+        "name": "relent",
+        "trans": [
+            "vi. 缓和;减弱;变温和;终于答应;不再拒绝"
+        ],
+        "usphone": "rɪˈlɛnt",
+        "ukphone": "rɪˈlɛnt"
+    },
+    {
+        "name": "naively",
+        "trans": [
+            "adv. 天真地;幼稚地"
+        ],
+        "usphone": "naɪˈivli",
+        "ukphone": "naɪˈiːvli"
+    },
+    {
+        "name": "tuition",
+        "trans": [
+            "n. 学费;教授;讲授;指导"
+        ],
+        "usphone": "tuˈɪʃən",
+        "ukphone": "tuːˈɪʃən"
+    },
+    {
+        "name": "romantic",
+        "trans": [
+            "adj. 浪漫的;多情的;幻想的",
+            "n. 浪漫派作家;浪漫史"
+        ],
+        "usphone": "roʊˈmæntɪk",
+        "ukphone": "rəˈmæntɪk"
+    },
+    {
+        "name": "deposit",
+        "trans": [
+            "n. 存款;押金;定金;沉淀物",
+            "v. 存放;使沉淀;堆积;寄存"
+        ],
+        "usphone": "dɪˈpɑzɪt",
+        "ukphone": "dɪˈpɒzɪt"
+    },
+    {
+        "name": "stumble",
+        "trans": [
+            "v. 绊倒;失足;跌跌撞撞;犯错",
+            "n. 绊倒;失足;犯错;磕碰声"
+        ],
+        "usphone": "ˈstʌmbəl",
+        "ukphone": "ˈstʌmbl"
+    },
+    {
+        "name": "intuition",
+        "trans": [
+            "n. 直觉;直觉力;直觉的知识"
+        ],
+        "usphone": "ˌɪntuˈɪʃən",
+        "ukphone": "ˌɪntjuːˈɪʃən"
+    },
+    {
+        "name": "priceless",
+        "trans": [
+            "adj. 无价的;极贵重的;极其宝贵的"
+        ],
+        "usphone": "ˈpraɪslɪs",
+        "ukphone": "ˈpraɪsləs"
+    },
+    {
+        "name": "perhaps",
+        "trans": [
+            "adv. 也许;可能;大概;或许"
+        ],
+        "usphone": "pərˈhæps",
+        "ukphone": "pəˈhæps"
+    },
+    {
+        "name": "calligraphy",
+        "trans": [
+            "n. 书法;笔法;书法作品"
+        ],
+        "usphone": "kəˈlɪɡrəfi",
+        "ukphone": "kəˈlɪɡrəfi"
+    },
+    {
+        "name": "instruction",
+        "trans": [
+            "n. 指导;教育;命令;用法说明"
+        ],
+        "usphone": "ɪnˈstrʌkʃən",
+        "ukphone": "ɪnˈstrʌkʃən"
+    },
+    {
+        "name": "throughout",
+        "trans": [
+            "prep. 贯穿;遍及;自始至终;在整个期间",
+            "adv. 自始至终;遍及;全部时间;全程"
+        ],
+        "usphone": "θruːˈaʊt",
+        "ukphone": "θruːˈaʊt"
+    },
+    {
+        "name": "campus",
+        "trans": [
+            "n. 校园;大学区;园区"
+        ],
+        "usphone": "ˈkæmpəs",
+        "ukphone": "ˈkæmpəs"
+    },
+    {
+        "name": "drawer",
+        "trans": [
+            "n. 抽屉;制图员;绘图者"
+        ],
+        "usphone": "ˈdrɔr",
+        "ukphone": "ˈdrɔːr"
+    },
+    {
+        "name": "typeface",
+        "trans": [
+            "n. 字体;活字字体;印刷体;活字字体的样式"
+        ],
+        "usphone": "ˈtaɪpfeɪs",
+        "ukphone": "ˈtaɪpfeɪs"
+    },
+    {
+        "name": "varying",
+        "trans": [
+            "adj. 不同的;多种多样的;变化的"
+        ],
+        "usphone": "ˈveriɪŋ",
+        "ukphone": "ˈveəriŋ"
+    },
+    {
+        "name": "combination",
+        "trans": [
+            "n. 组合;联合;合并;结合体"
+        ],
+        "usphone": "ˌkɑmbəˈneɪʃən",
+        "ukphone": "ˌkɒmbɪˈneɪʃən"
+    },
+    {
+        "name": "typography",
+        "trans": [
+            "n. 排版;印刷术;印刷工艺;印刷业"
+        ],
+        "usphone": "taɪˈpɑɡrəfi",
+        "ukphone": "taɪˈpɒɡrəfi"
+    },
+    {
+        "name": "historical",
+        "trans": [
+            "adj. 历史的;历史学的;有关历史的;史学的"
+        ],
+        "usphone": "hɪˈstɔrɪkl",
+        "ukphone": "hɪsˈtɒrɪkl"
+    },
+    {
+        "name": "artistically",
+        "trans": [
+            "adv. 艺术地;有艺术性地;艺术上"
+        ],
+        "usphone": "ɑrˈtɪstɪkli",
+        "ukphone": "ɑːˈtɪstɪkli"
+    },
+    {
+        "name": "subtle",
+        "trans": [
+            "adj. 微妙的;细微的;精巧的;敏感的"
+        ],
+        "usphone": "ˈsʌtl",
+        "ukphone": "ˈsʌtl"
+    },
+    {
+        "name": "macintosh",
+        "trans": [
+            "n. 防水胶布;风雨衣;雨披;水着"
+        ],
+        "usphone": "ˈmækɪntɒʃ",
+        "ukphone": "ˈmækɪntɒʃ"
+    },
+    {
+        "name": "multiple",
+        "trans": [
+            "adj. 多重的;多样的;多元的;多职的",
+            "n. 倍数;倍数的东西;复数"
+        ],
+        "usphone": "ˈmʌltəpl",
+        "ukphone": "ˈmʌltɪpl"
+    },
+    {
+        "name": "well worn",
+        "trans": [
+            "adj. 陈旧的;磨损的;被频繁使用的"
+        ],
+        "usphone": "wɛlˈwɔrn",
+        "ukphone": "wɛlˈwɔːn"
+    },
+    {
+        "name": "proportionally",
+        "trans": [
+            "adv. 按比例;成比例地;比例地"
+        ],
+        "usphone": "prəˈpɔrʃənəli",
+        "ukphone": "prəˈpɔːʃənəli"
+    },
+    {
+        "name": "approach",
+        "trans": [
+            "n. 方法;途径;接近;态度",
+            "v. 接近;靠近;着手处理;对待"
+        ],
+        "usphone": "əˈproʊtʃ",
+        "ukphone": "əˈprəʊtʃ"
+    },
+    {
+        "name": "diverge",
+        "trans": [
+            "v. 分歧;偏离;分开;分散"
+        ],
+        "usphone": "daɪˈvɜrdʒ",
+        "ukphone": "daɪˈvɜːdʒ"
+    },
+    {
+        "name": "devastating",
+        "trans": [
+            "adj. 毁灭性的;令人震惊的;极具破坏力的"
+        ],
+        "usphone": "ˈdɛvəˌsteɪtɪŋ",
+        "ukphone": "ˈdɛvəˌsteɪtɪŋ"
+    },
+    {
+        "name": "entrepreneur",
+        "trans": [
+            "n. 企业家;创业者;承包人"
+        ],
+        "usphone": "ˌɑntrəprəˈnɝ",
+        "ukphone": "ˌɒntrəprəˈnɜː"
+    },
+    {
+        "name": "baton",
+        "trans": [
+            "n. 指挥棒;接力棒;权杖;警棍"
+        ],
+        "usphone": "bəˈtɑn",
+        "ukphone": "ˈbætən"
+    },
+    {
+        "name": "screwing up",
+        "trans": [
+            "v. 搞砸;弄糟;紧张到极点"
+        ],
+        "usphone": "skruː ʌp",
+        "ukphone": "skruː ʌp"
+    },
+    {
+        "name": "dawn",
+        "trans": [
+            "n. 黎明;拂晓;开始;曙光",
+            "v. 破晓;开始;显露"
+        ],
+        "usphone": "dɔn",
+        "ukphone": "dɔːn"
+    },
+    {
+        "name": "heaviness",
+        "trans": [
+            "n. 重;沉重;厚重;深沉"
+        ],
+        "usphone": "ˈhɛviˌnəs",
+        "ukphone": "ˈhɛviˌnɪs"
+    },
+    {
+        "name": "lightness",
+        "trans": [
+            "n. 轻;轻快;明亮;光亮"
+        ],
+        "usphone": "ˈlaɪtnəs",
+        "ukphone": "ˈlaɪtnɪs"
+    },
+    {
+        "name": "periods",
+        "trans": [
+            "n. 时期;周期;句号;课时"
+        ],
+        "usphone": "ˈpɪriədz",
+        "ukphone": "ˈpɪəriədz"
+    },
+    {
+        "name": "animated",
+        "trans": [
+            "adj. 活泼的;生气勃勃的;栩栩如生的;有生气的"
+        ],
+        "usphone": "ˈænɪˌmeɪtɪd",
+        "ukphone": "ˈænɪˌmeɪtɪd"
+    },
+    {
+        "name": "feature",
+        "trans": [
+            "n. 特点;特征;特写;特色",
+            "v. 以...为特色;在...中占重要地位"
+        ],
+        "usphone": "ˈfiːtʃər",
+        "ukphone": "ˈfiːtʃər"
+    },
+    {
+        "name": "studio",
+        "trans": [
+            "n. 工作室;画室;广播室;音乐录音室"
+        ],
+        "usphone": "ˈstjuːdioʊ",
+        "ukphone": "ˈstjuːdiəʊ"
+    },
+    {
+        "name": "renaissance",
+        "trans": [
+            "n. 文艺复兴;复兴;新生;复古"
+        ],
+        "usphone": "ˌrɛnəˈsɑns",
+        "ukphone": "ˌrɛnəˈsɑːns"
+    },
+    {
+        "name": "brick",
+        "trans": [
+            "n. 砖;砖块;刺球;复方砖状肿块"
+        ],
+        "usphone": "brɪk",
+        "ukphone": "brɪk"
+    },
+    {
+        "name": "convinced",
+        "trans": [
+            "adj. 确信的;深信的;信服的"
+        ],
+        "usphone": "kənˈvɪnst",
+        "ukphone": "kənˈvɪnst"
+    },
+    {
+        "name": "settle",
+        "trans": [
+            "v. 定居;解决;安排;决定"
+        ],
+        "usphone": "ˈsɛtl",
+        "ukphone": "ˈsɛtl"
+    },
+    {
+        "name": "encountered",
+        "trans": [
+            "v. 遇到;邂逅;遭遇;经历"
+        ],
+        "usphone": "ɪnˈkaʊntərd",
+        "ukphone": "ɪnˈkaʊntəd"
+    },
+    {
+        "name": "embarrassment",
+        "trans": [
+            "n. 尴尬;困窘;难堪;使人尴尬的人或事"
+        ],
+        "usphone": "ɪmˈbærəsmənt",
+        "ukphone": "ɪmˈbærəsmənt"
+    },
+    {
+        "name": "failure",
+        "trans": [
+            "n. 失败;失败者;故障;不及格"
+        ],
+        "usphone": "ˈfeɪljər",
+        "ukphone": "ˈfeɪljər"
+    },
+    {
+        "name": "trap",
+        "trans": [
+            "n. 陷阱;圈套;困境;诡计",
+            "v. 设陷阱;诱骗;使受限制"
+        ],
+        "usphone": "træp",
+        "ukphone": "træp"
+    },
+    {
+        "name": "naked",
+        "trans": [
+            "adj. 裸体的;无遮盖的;无掩饰的;赤裸的"
+        ],
+        "usphone": "ˈneɪkɪd",
+        "ukphone": "ˈneɪkɪd"
+    },
+    {
+        "name": "diagnosed",
+        "trans": [
+            "v. 诊断;判断;断定;查明"
+        ],
+        "usphone": "ˈdaɪəɡnoʊzd",
+        "ukphone": "ˈdaɪəɡnəʊzd"
+    },
+    {
+        "name": "cancer",
+        "trans": [
+            "n. 癌症;恶性肿瘤;蟹座"
+        ],
+        "usphone": "ˈkænsər",
+        "ukphone": "ˈkænsə"
+    },
+    {
+        "name": "tumor",
+        "trans": [
+            "n. 肿瘤;瘤;膨胀;肿块"
+        ],
+        "usphone": "ˈtuːmər",
+        "ukphone": "ˈtuːmə"
+    },
+    {
+        "name": "pancreas",
+        "trans": [
+            "n. 胰腺;胰;膜状物"
+        ],
+        "usphone": "ˈpæŋkriəs",
+        "ukphone": "ˈpæŋkriəs"
+    },
+    {
+        "name": "incurable",
+        "trans": [
+            "adj. 不可治愈的;无可救药的;难以医治的"
+        ],
+        "usphone": "ɪnˈkjʊrəbl",
+        "ukphone": "ɪnˈkjʊrəbl"
+    },
+    {
+        "name": "affairs",
+        "trans": [
+            "n. 事务;事情;事态;风采"
+        ],
+        "usphone": "əˈfɛrz",
+        "ukphone": "əˈfeəz"
+    },
+    {
+        "name": "buttoned up",
+        "trans": [
+            "adj. 扣紧的;拴好的;拴住的;被扣住的"
+        ],
+        "usphone": "ˈbʌtnd ʌp",
+        "ukphone": "ˈbʌtnd ʌp"
+    },
+    {
+        "name": "biopsy",
+        "trans": [
+            "n. 活检;活组织检查;活体检验;活检术"
+        ],
+        "usphone": "ˈbaɪˌɑpsi",
+        "ukphone": "ˈbaɪəʊpsi"
+    },
+    {
+        "name": "stuck",
+        "trans": [
+            "adj. 卡住的;粘着的;受困的;陷入困境的"
+        ],
+        "usphone": "stʌk",
+        "ukphone": "stʌk"
+    },
+    {
+        "name": "endoscope",
+        "trans": [
+            "n. 内窥镜;检体内镜;腔镜;鞭虫的观察突"
+        ],
+        "usphone": "ˈɛndoʊˌskoʊp",
+        "ukphone": "ˈɛndəʊskəʊp"
+    },
+    {
+        "name": "stomach",
+        "trans": [
+            "n. 胃;胃口;肚子;胃部",
+            "v. 容忍;承受;吃得下;忍受"
+        ],
+        "usphone": "ˈstʌmək",
+        "ukphone": "ˈstʌmək"
+    },
+    {
+        "name": "intestines",
+        "trans": [
+            "n. 肠;肠道;肠子;肠腑"
+        ],
+        "usphone": "ɪnˈtɛstinz",
+        "ukphone": "ɪnˈtɛstinz"
+    },
+    {
+        "name": "sedate",
+        "trans": [
+            "adj. 安静的;镇定的;稳重的;端庄的",
+            "v. 使镇定;使安静;使稳重;使端庄"
+        ],
+        "usphone": "sɪˈdeɪt",
+        "ukphone": "sɪˈdeɪt"
+    },
+    {
+        "name": "microscope",
+        "trans": [
+            "n. 显微镜;显微放大镜;细查;显微镜检验"
+        ],
+        "usphone": "ˈmaɪkrəˌskoʊp",
+        "ukphone": "ˈmaɪkrəˌskəʊp"
+    },
+    {
+        "name": "turned out",
+        "trans": [
+            "v. 关掉;消灭;证明是;扭曲出"
+        ],
+        "usphone": "tɜrnd aʊt",
+        "ukphone": "tɜrnd aʊt"
+    },
+    {
+        "name": "curable",
+        "trans": [
+            "adj. 可治疗的;能够医治的;可愈合的"
+        ],
+        "usphone": "ˈkjʊrəbl",
+        "ukphone": "ˈkjʊrəbl"
+    },
+    {
+        "name": "purely",
+        "trans": [
+            "adv. 纯粹地;完全地;仅仅;单纯地"
+        ],
+        "usphone": "ˈpjʊrli",
+        "ukphone": "ˈpjʊəli"
+    },
+    {
+        "name": "heaven",
+        "trans": [
+            "n. 天堂;极乐;上帝;极乐世界"
+        ],
+        "usphone": "ˈhɛvən",
+        "ukphone": "ˈhɛvən"
+    },
+    {
+        "name": "trapped",
+        "trans": [
+            "adj. 被困住的;受限制的;陷入困境的"
+        ],
+        "usphone": "træpt",
+        "ukphone": "træpt"
+    },
+    {
+        "name": "gradually",
+        "trans": [
+            "adv. 逐渐地;逐步地;渐渐地;逐渐增加地"
+        ],
+        "usphone": "ˈɡrædʒuəli",
+        "ukphone": "ˈɡrædʒuəli"
+    },
+    {
+        "name": "dramatic",
+        "trans": [
+            "adj. 戏剧性的;引人注目的;激动人心的;戏剧性的人或事"
+        ],
+        "usphone": "drəˈmætɪk",
+        "ukphone": "drəˈmætɪk"
+    },
+    {
+        "name": "dogma",
+        "trans": [
+            "n. 教条;教义;教条主义;信仰"
+        ],
+        "usphone": "ˈdɔɡmə",
+        "ukphone": "ˈdɒɡmə"
+    },
+    {
+        "name": "courage",
+        "trans": [
+            "n. 勇气;胆量;胆识;志气"
+        ],
+        "usphone": "ˈkɜrɪdʒ",
+        "ukphone": "ˈkʌrɪdʒ"
+    },
+    {
+        "name": "catalog",
+        "trans": [
+            "n. 目录;编目;大全;一览表",
+            "v. 编目;编入目录;将...编为目录"
+        ],
+        "usphone": "ˈkætəˌlɔɡ",
+        "ukphone": "ˈkætəˌlɒɡ"
+    },
+    {
+        "name": "poetic",
+        "trans": [
+            "adj. 诗意的;诗的;富有诗意的;富有想象力的"
+        ],
+        "usphone": "poʊˈɛtɪk",
+        "ukphone": "pəʊˈɛtɪk"
+    },
+    {
+        "name": "typewriter",
+        "trans": [
+            "n. 打字机;打字员"
+        ],
+        "usphone": "ˈtaɪpˌraɪtər",
+        "ukphone": "ˈtaɪpˌraɪtə"
+    },
+        {
+        "name": "scissors",
+        "trans": [
+            "n. 剪刀;剪;刀子"
+        ],
+        "usphone": "ˈsɪzərz",
+        "ukphone": "ˈsɪzəz"
+    },
+    {
+        "name": "paperback",
+        "trans": [
+            "n. 平装书;简装书;平装本;软封面书"
+        ],
+        "usphone": "ˈpeɪpərˌbæk",
+        "ukphone": "ˈpeɪpəˌbæk"
+    },
+    {
+        "name": "idealistic",
+        "trans": [
+            "adj. 理想主义的;唯心主义的;思想家的;空想的"
+        ],
+        "usphone": "aɪˌdiəˈlɪstɪk",
+        "ukphone": "aɪˌdiːəˈlɪstɪk"
+    },
+    {
+        "name": "hitchhiking",
+        "trans": [
+            "v. 搭便车旅行;免费搭便车;乞讨"
+        ],
+        "usphone": "ˈhɪtʃˌhaɪkɪŋ",
+        "ukphone": "ˈhɪtʃˌhaɪkɪŋ"
+    },
+    {
+        "name": "adventurous",
+        "trans": [
+            "adj. 冒险的;爱冒险的;大胆的;爱探险的"
+        ],
+        "usphone": "ædˈvɛnʧərəs",
+        "ukphone": "ədˈvɛnʧərəs"
+    },
+    {
+        "name": "beneath",
+        "trans": [
+            "prep. 在...之下;低于;下面;在底下"
+        ],
+        "usphone": "bɪˈniθ",
+        "ukphone": "bɪˈniːθ"
+    },
+    {
+        "name": "farewell",
+        "trans": [
+            "n. 告别;告别辞;离别;分手辞"
+        ],
+        "usphone": "ˌfɛrˈwɛl",
+        "ukphone": "ˌfɛəˈwɛl"
+    }
+]

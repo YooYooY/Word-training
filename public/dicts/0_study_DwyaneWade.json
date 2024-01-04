@@ -1,0 +1,269 @@
+[
+    {
+        "name": "escort",
+        "trans": [
+            "n. 护送;陪同;护卫;陪送者",
+            "v. 护送;陪同;护卫;陪送"
+        ],
+        "usphone": "ˈɛskɔrt",
+        "ukphone": "ˈɛskɔrt"
+    },
+    {
+        "name": "vocal",
+        "trans": [
+            "adj. 声音的;嗓音的;发声的;直言不讳的",
+            "n. 唱歌;声乐作品;声音的形式"
+        ],
+        "usphone": "ˈvoʊkəl",
+        "ukphone": "ˈvəʊkəl"
+    },
+    {
+        "name": "roadblock",
+        "trans": [
+            "n. 障碍;路障;路垒;阻塞"
+        ],
+        "usphone": "ˈroʊdˌblɑk",
+        "ukphone": "ˈrəʊdˌblɒk"
+    },
+    {
+        "name": "procrastinator",
+        "trans": [
+            "n. 拖延者;拖延症患者;拖拉者;延期人"
+        ],
+        "usphone": "proʊˈkræstəˌneɪtər",
+        "ukphone": "prəˈkræstɪˌneɪtə"
+    },
+    {
+        "name": "procrastination",
+        "trans": [
+            "n. 拖延;延宕;迁延;耽搁"
+        ],
+        "usphone": "proʊˌkræstəˈneɪʃən",
+        "ukphone": "prəˌkræsˌtɪˈneɪʃən"
+    },
+    {
+        "name": "a brief moment",
+        "trans": [
+            "短暂时刻"
+        ]
+    },
+    {
+        "name": "solitude",
+        "trans": [
+            "n. 孤独;独处;寂寞;荒僻之地"
+        ],
+        "usphone": "ˈsɑləˌtud",
+        "ukphone": "ˈsɒlɪˌtjuːd"
+    },
+    {
+        "name": "self awareness",
+        "trans": [
+            "自我意识"
+        ]
+    },
+    {
+        "name": "earbuds",
+        "trans": [
+            "n. 耳塞式耳机;耳塞耳机;耳塞;耳机"
+        ],
+        "usphone": "ˈɪrˌbʌdz",
+        "ukphone": "ˈɪəbʌdz"
+    },
+    {
+        "name": "calendar",
+        "trans": [
+            "n. 日历;历法;月经周期表;时程表"
+        ],
+        "usphone": "ˈkæləndər",
+        "ukphone": "ˈkæləndə"
+    },
+    {
+        "name": "doctorate",
+        "trans": [
+            "n. 博士学位;博士头衔;博士"
+        ],
+        "usphone": "ˈdɑktərət",
+        "ukphone": "ˈdɒktərət"
+    },
+    {
+        "name": "recruiting",
+        "trans": [
+            "n. 招募;征兵;新兵;招生"
+        ],
+        "usphone": "rɪˈkruːtɪŋ",
+        "ukphone": "rɪˈkruːtɪŋ"
+    },
+    {
+        "name": "scholarship",
+        "trans": [
+            "n. 奖学金;学问;学术研究;学识"
+        ],
+        "usphone": "ˈskɑlərˌʃɪp",
+        "ukphone": "ˈskɒlərˌʃɪp"
+    },
+    {
+        "name": "anticipating",
+        "trans": [
+            "v. 预期;期待;预见;预感"
+        ],
+        "usphone": "ænˈtɪsɪˌpeɪtɪŋ",
+        "ukphone": "ænˈtɪsɪˌpeɪtɪŋ"
+    },
+    {
+        "name": "knot",
+        "trans": [
+            "n. 结;绳结;节;疙瘩"
+        ],
+        "usphone": "nɑt",
+        "ukphone": "nɒt"
+    },
+    {
+        "name": "envelope",
+        "trans": [
+            "n. 信封;封套;包封;围绕"
+        ],
+        "usphone": "ˈɛnvəˌloʊp",
+        "ukphone": "ˈɛnvəˌləʊp"
+    },
+    {
+        "name": "frantic",
+        "trans": [
+            "adj. 疯狂的;狂乱的;发狂的;拼命的"
+        ],
+        "usphone": "ˈfræntɪk",
+        "ukphone": "ˈfræntɪk"
+    },
+    {
+        "name": "trembling",
+        "trans": [
+            "v. 颤抖;发抖;哆嗦;战栗",
+            "n. 颤抖;战栗;颤音;战栗声"
+        ],
+        "usphone": "ˈtrɛmbəlɪŋ",
+        "ukphone": "ˈtrɛmblɪŋ"
+    },
+    {
+        "name": "proceed",
+        "trans": [
+            "v. 继续;前进;进行;执行"
+        ],
+        "usphone": "prəˈsɛd",
+        "ukphone": "prəˈsiːd"
+    },
+    {
+        "name": "roller coaster",
+        "trans": [
+            "n. 过山车;过山车式的;连续的高潮起伏;跌宕起伏"
+        ],
+        "usphone": "ˈroʊlər ˈkoʊstər",
+        "ukphone": "ˈrəʊlə ˈkəʊstə"
+    },
+    {
+        "name": "loneliest",
+        "trans": [
+            "adj. 最孤独的;最寂寞的"
+        ]
+    },
+    {
+        "name": "exhilarating",
+        "trans": [
+            "adj. 令人高兴的;使人兴奋的;令人振奋的;使人精力充沛的"
+        ],
+        "usphone": "ɪɡˈzɪləˌreɪtɪŋ",
+        "ukphone": "ɪɡˈzɪləreɪtɪŋ"
+    },
+    {
+        "name": "definition",
+        "trans": [
+            "n. 定义;释义;定义书;清晰度"
+        ],
+        "usphone": "ˌdɛfəˈnɪʃən",
+        "ukphone": "ˌdɛfɪˈnɪʃən"
+    },
+    {
+        "name": "visualize",
+        "trans": [
+            "v. 想象;形象化;设想;使可视化"
+        ],
+        "usphone": "ˈvɪʒuəˌlaɪz",
+        "ukphone": "ˈvɪʒuəlaɪz"
+    },
+    {
+        "name": "abandonment",
+        "trans": [
+            "n. 放弃;遗弃;抛弃;沦丧"
+        ],
+        "usphone": "əˈbændənmənt",
+        "ukphone": "əˈbændənmənt"
+    },
+    {
+        "name": "claiming",
+        "trans": [
+            "v. 声称;主张;要求;认领"
+        ],
+        "usphone": "ˈkleɪmɪŋ",
+        "ukphone": "ˈkleɪmɪŋ"
+    },
+    {
+        "name": "inspire",
+        "trans": [
+            "v. 鼓舞;激励;启发;吸入"
+        ],
+        "usphone": "ɪnˈspaɪr",
+        "ukphone": "ɪnˈspaɪə"
+    },
+    {
+        "name": "motivate",
+        "trans": [
+            "v. 激发;激励;刺激;推动"
+        ],
+        "usphone": "ˈmoʊtɪˌveɪt",
+        "ukphone": "ˈməʊtɪˌveɪt"
+    },
+    {
+        "name": "instinctively",
+        "trans": [
+            "adv. 本能地;凭直觉地;天生地;本能地地"
+        ],
+        "usphone": "ɪnˈstɪŋktɪvli",
+        "ukphone": "ɪnˈstɪŋktɪvli"
+    },
+    {
+        "name": "enhance",
+        "trans": [
+            "v. 增强;提高;加强;改进"
+        ],
+        "usphone": "ɪnˈhæns",
+        "ukphone": "ɪnˈhæns"
+    },
+    {
+        "name": "discard",
+        "trans": [
+            "v. 丢弃;抛弃;解雇;出牌"
+        ],
+        "usphone": "dɪsˈkɑrd",
+        "ukphone": "dɪsˈkɑːd"
+    },
+    {
+        "name": "definitive",
+        "trans": [
+            "adj. 最终的;明确的;决定性的;最权威的"
+        ],
+        "usphone": "dɪˈfɪnətɪv",
+        "ukphone": "dɪˈfɪnətɪv"
+    },
+    {
+        "name": "fulfilling",
+        "trans": [
+            "adj. 令人满足的;实现愿望的;圆满的;满足需求的"
+        ]
+    },
+    {
+        "name": "quoting",
+        "trans": [
+            "v. 引述;引用;援引;提供报价"
+        ],
+        "usphone": "ˈkwoʊtɪŋ",
+        "ukphone": "ˈkwəʊtɪŋ"
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "name": "disposed of",
+        "trans": ["处理", "处置"],
+        "usphone": "dɪˈspoʊzd əv",
+        "ukphone": "dɪˈspəʊzd əv"
+    },
+    {
+        "name": "fallen leaves",
+        "trans": ["落叶"],
+        "usphone": "ˈfɔlən liːvz",
+        "ukphone": "ˈfɔːlən liːvz"
+    },
+    {
+        "name": "landfill",
+        "trans": ["垃圾填埋场"],
+        "usphone": "ˈlændˌfɪl",
+        "ukphone": "ˈlændfɪl"
+    },
+    {
+        "name": "decompose",
+        "trans": ["分解", "腐烂"],
+        "usphone": "diːkəmˈpoʊz",
+        "ukphone": "diːkəmˈpəʊz"
+    },
+    {
+        "name": "organic matter",
+        "trans": ["有机物", "有机物质"],
+        "usphone": "ɔrˈɡænɪk ˈmætər",
+        "ukphone": "ɔːˈɡænɪk ˈmætə"
+    },
+    {
+        "name": "shelter",
+        "trans": ["庇护所", "避难所"],
+        "usphone": "ˈʃɛltər",
+        "ukphone": "ˈʃɛltər"
+    },
+    {
+        "name": "pollinators",
+        "trans": ["传粉者", "授粉者"],
+        "usphone": "ˈpɑləˌneɪtərz",
+        "ukphone": "ˈpɒlɪneɪtəz"
+    },
+    {
+        "name": "insect",
+        "trans": ["昆虫"],
+        "usphone": "ˈɪnˌsɛkt",
+        "ukphone": "ˈɪnsekt"
+    },
+    {
+        "name": "fertilizer",
+        "trans": ["肥料"],
+        "usphone": "ˈfɜrtnˌlaɪzər",
+        "ukphone": "ˈfɜːtɪlaɪzər"
+    },
+    {
+        "name": "slippery",
+        "trans": ["滑的", "容易滑的"],
+        "usphone": "ˈslɪpəri",
+        "ukphone": "ˈslɪpəri"
+    },
+    {
+        "name": "lawn",
+        "trans": ["草坪", "草地"],
+        "usphone": "lɔn",
+        "ukphone": "lɔːn"
+    },
+    {
+        "name": "trapped",
+        "trans": ["被困住的", "陷入困境的"],
+        "usphone": "træpt",
+        "ukphone": "træpt"
+    },
+    {
+        "name": "lead to",
+        "trans": ["导致", "引起"],
+        "usphone": "lid tu",
+        "ukphone": "liːd tuː"
+    },
+    {
+        "name": "mold",
+        "trans": ["霉菌", "模具"],
+        "usphone": "moʊld",
+        "ukphone": "məʊld"
+    },
+    {
+        "name": "fungal infection",
+        "trans": ["真菌感染", "霉菌感染"],
+        "usphone": "ˈfʌŋɡəl ɪnˈfɛkʃən",
+        "ukphone": "ˈfʌŋɡəl ɪnˈfɛkʃən"
+    },
+    {
+        "name": "further",
+        "trans": ["进一步", "更远"],
+        "usphone": "ˈfɜrðər",
+        "ukphone": "ˈfɜːðər"
+    },
+    {
+        "name": "treatment",
+        "trans": ["处理", "治疗"],
+        "usphone": "ˈtriːtmənt",
+        "ukphone": "ˈtriːtmənt"
+    },
+    {
+        "name": "almost entirely",
+        "trans": ["几乎完全", "差不多全部"],
+        "usphone": "ˈɔlˌmoʊst ɪnˈtaɪrli",
+        "ukphone": "ˈɔːlməʊst ɪnˈtaɪəli"
+    },
+    {
+        "name": "compost",
+        "trans": ["堆肥", "腐殖土"],
+        "usphone": "ˈkɒmpoʊst",
+        "ukphone": "ˈkɒmpəʊst"
+    },
+    {
+        "name": "nitrogen",
+        "trans": ["氮", "氮气"],
+        "usphone": "ˈnaɪtrədʒən",
+        "ukphone": "ˈnaɪtrədʒən"
+    },
+    {
+        "name": "pile",
+        "trans": ["堆", "堆积"],
+        "usphone": "paɪl",
+        "ukphone": "paɪl"
+    },
+    {
+        "name": "nutritious",
+        "trans": ["有营养的", "营养丰富的"],
+        "usphone": "nuˈtrɪʃəs",
+        "ukphone": "njuːˈtrɪʃəs"
+    },
+    {
+        "name": "walnut",
+        "trans": ["核桃"],
+        "usphone": "ˈwɔlˌnʌt",
+        "ukphone": "ˈwɔːlnət"
+    },
+    {
+        "name": "hydrangeas",
+        "trans": ["绣球花"],
+        "usphone": "haɪˈdreɪndʒiəz",
+        "ukphone": "haɪˈdreɪndʒiəz"
+    },
+    {
+        "name": "petunia",
+        "trans": ["矮牵牛"],
+        "usphone": "pɪˈtuːniə",
+        "ukphone": "pɪˈtjuːniə"
+    },
+    {
+        "name": "pepper",
+        "trans": ["胡椒", "辣椒"],
+        "usphone": "ˈpɛpər",
+        "ukphone": "ˈpepər"
+    },
+    {
+        "name": "tomatoes",
+        "trans": ["番茄"],
+        "usphone": "təˈmeɪtoʊz",
+        "ukphone": "təˈmeɪtəʊz"
+    },
+    {
+        "name": "patotoes",
+        "trans": ["马铃薯", "土豆"],
+        "usphone": "pəˈteɪtoʊz",
+        "ukphone": "pəˈteɪtəʊz"
+    },
+    {
+        "name": "thick",
+        "trans": ["厚的", "粗的"],
+        "usphone": "θɪk",
+        "ukphone": "θɪk"
+    },
+    {
+        "name": "oaks",
+        "trans": ["橡树"],
+        "usphone": "oʊks",
+        "ukphone": "əʊks"
+    },
+    {
+        "name": "decomposition",
+        "trans": ["分解", "腐烂"],
+        "usphone": "ˌdiːˌkɒmpəˈzɪʃən",
+        "ukphone": "ˌdiːˌkɒmpəˈzɪʃən"
+    },
+    {
+        "name": "weeds",
+        "trans": ["杂草", "野草"],
+        "usphone": "wiːdz",
+        "ukphone": "wiːdz"
+    },
+    {
+        "name": "mulch",
+        "trans": ["覆盖物", "护根层"],
+        "usphone": "mʌltʃ",
+        "ukphone": "mʌltʃ"
+    },
+    {
+        "name": "fertile soil",
+        "trans": ["肥沃的土壤", "富饶的土地"],
+        "usphone": "ˈfɜrtaɪl sɔɪl",
+        "ukphone": "ˈfɜːtaɪl sɔɪl"
+    },
+    {
+        "name": "wildlife",
+        "trans": ["野生动植物", "野生生物"],
+        "usphone": "ˈwaɪldˌlaɪf",
+        "ukphone": "ˈwaɪldlaɪf"
+    }
+]

@@ -1,0 +1,157 @@
+[
+    {
+        "name": "diverse",
+        "trans": [
+            "adj. 多样的",
+            "adj. 不同的"
+        ],
+        "usphone": "daɪˈvɜrs",
+        "ukphone": "daɪˈvɜːs"
+    },
+    {
+        "name": "particularly",
+        "trans": [
+            "adv. 特别地",
+            "adv. 尤其"
+        ],
+        "usphone": "pərˈtɪkjələrli",
+        "ukphone": "pəˈtɪkjʊləli"
+    },
+    {
+        "name": "science fiction",
+        "trans": [
+            "n. 科幻小说"
+        ],
+        "usphone": "ˈsaɪəns ˈfɪkʃən",
+        "ukphone": "ˈsaɪəns ˈfɪkʃən"
+    },
+    {
+        "name": "fantasy movies",
+        "trans": [
+            "n. 奇幻电影"
+        ],
+        "usphone": "ˈfæntəsi ˈmuvi",
+        "ukphone": "ˈfæntəsi ˈmuːvi"
+    },
+    {
+        "name": "imaginative",
+        "trans": [
+            "adj. 富有想象力的",
+            "adj. 富于想象的"
+        ],
+        "usphone": "ɪˈmædʒənətɪv",
+        "ukphone": "ɪˈmædʒɪnətɪv"
+    },
+    {
+        "name": "futuristic",
+        "trans": [
+            "adj. 未来主义的"
+        ],
+        "usphone": "ˌfjuːtʃəˈrɪstɪk",
+        "ukphone": "ˌfjuːtʃəˈrɪstɪk"
+    },
+   {
+        "name": "intriguing",
+        "trans": [
+            "adj. 有趣的",
+            "adj. 引人入胜的"
+        ],
+        "usphone": "ɪnˈtriːɡɪŋ",
+        "ukphone": "ɪnˈtriːɡɪŋ"
+    },
+     {
+        "name": "storyline",
+        "trans": [
+            "n. 故事情节"
+        ],
+        "usphone": "ˈstɔːrilaɪn",
+        "ukphone": "ˈstɔːrilaɪn"
+    },
+    {
+        "name": "genre",
+        "trans": [
+            "n. 类型"
+        ],
+        "usphone": "ˈʒɑːnrə",
+        "ukphone": "ˈʒɑːnrə"
+    },
+    {
+        "name": "captivate",
+        "trans": [
+            "v. 迷住",
+            "v. 吸引"
+        ],
+        "usphone": "ˈkæptɪveɪt",
+        "ukphone": "ˈkæptɪveɪt"
+    },
+    {
+        "name": "pastime",
+        "trans": [
+            "n. 消遣",
+            "n. 娱乐"
+        ],
+        "usphone": "ˈpæstaɪm",
+        "ukphone": "ˈpɑːstaɪm"
+    },
+    {
+        "name": "fond memories",
+        "trans": [
+            "美好的回忆"
+        ],
+        "usphone": "fɑːnd ˈmeməriz",
+        "ukphone": "fɒnd ˈmeməriz"
+    },
+    {
+        "name": "bond over",
+        "trans": [
+            "因...建立联系"
+        ],
+        "usphone": "bɑːnd ˈoʊvər",
+        "ukphone": "bɒnd ˈəʊvə"
+    },
+    {
+        "name": "afterward",
+        "trans": [
+            "adv. 之后",
+            "adv. 后来"
+        ],
+        "usphone": "ˈæftərwərd",
+        "ukphone": "ˈɑːftəwəd"
+    },
+    {
+        "name": "entertainment",
+        "trans": [
+            "n. 娱乐",
+            "n. 消遣"
+        ],
+        "usphone": "ˌentərˈteɪnmənt",
+        "ukphone": "ˌentəˈteɪnmənt"
+    },
+    {
+        "name": "socializing",
+        "trans": [
+            "n. 社交",
+            "v. 社交"
+        ],
+        "usphone": "ˈsoʊʃəlaɪzɪŋ",
+        "ukphone": "ˈsəʊʃəlaɪzɪŋ"
+    },
+    {
+        "name": "memorable",
+        "trans": [
+            "adj. 值得纪念的",
+            "adj. 难忘的"
+        ],
+        "usphone": "ˈmemərəbl",
+        "ukphone": "ˈmemərəbl"
+    },
+        {
+        "name": "strengthen",
+        "trans": [
+            "v. 加强",
+            "v. 巩固"
+        ],
+        "usphone": "ˈstreŋθən",
+        "ukphone": "ˈstreŋθən"
+    }
+]

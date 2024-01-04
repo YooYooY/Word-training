@@ -1,0 +1,168 @@
+[
+    {
+        "name": "tranquil",
+        "trans": ["adj. 安静的; 宁静的; 平静的"],
+        "usphone": "ˈtræŋkwɪl",
+        "ukphone": "ˈtræŋkwɪl"
+    },
+    {
+        "name": "serene",
+        "trans": ["adj. 安详的; 宁静的; 平静的"],
+        "usphone": "səˈriːn",
+        "ukphone": "səˈriːn"
+    },
+    {
+        "name": "teeming with",
+        "trans": ["充满着; 遍布着"]
+    },
+    {
+        "name": "concentration",
+        "trans": ["n. 集中; 专心; 浓缩"],
+        "usphone": "ˌkɑnsənˈtreɪʃən",
+        "ukphone": "ˌkɒnsənˈtreɪʃən"
+    },
+    {
+        "name": "overall",
+        "trans": ["adj. 全部的; 整体的", "adv. 总体而言; 总的来说"],
+        "usphone": "ˈoʊvərˌɔl",
+        "ukphone": "ˈəʊvərɔːl"
+    },
+    {
+        "name": "encounter",
+        "trans": ["v. 遭遇; 遇到; 偶然碰到", "n. 遭遇; 遭遇战"],
+        "usphone": "ɪnˈkaʊntər",
+        "ukphone": "ɪnˈkaʊntə"
+    },
+    {
+        "name": "a spectrum of",
+        "trans": ["一系列; 一范围"]
+    },
+    {
+        "name": "ranging",
+        "trans": ["v. 变动; 变化; 范围在...之内"],
+        "usphone": "ˈreɪndʒɪŋ",
+        "ukphone": "ˈreɪndʒɪŋ"
+    },
+    {
+        "name": "gentle",
+        "trans": ["adj. 温和的; 文雅的; 有礼貌的", "v. 缓慢移动"],
+        "usphone": "ˈdʒɛntəl",
+        "ukphone": "ˈdʒentl"
+    },
+    {
+        "name": "rustling",
+        "trans": ["adj. 沙沙声的; 潇潇的", "n. 沙沙声; 潇潇声"],
+        "usphone": "ˈrʌslɪŋ",
+        "ukphone": "ˈrʌslɪŋ"
+    },
+    {
+        "name": "intermittent",
+        "trans": ["adj. 间歇的; 断断续续的"],
+        "usphone": "ˌɪntərˈmɪtənt",
+        "ukphone": "ˌɪntəˈmɪtənt"
+    },
+    {
+        "name": "disturbance",
+        "trans": ["n. 干扰; 骚乱; 不安"],
+        "usphone": "dɪˈstɜːrbəns",
+        "ukphone": "dɪˈstɜːbəns"
+    },
+    {
+        "name": "relocating",
+        "trans": ["v. 迁移; 搬迁"],
+        "usphone": "ˌriːˈloʊˌkeɪtɪŋ",
+        "ukphone": "ˌriːˈləʊkeɪtɪŋ"
+    },
+    {
+        "name": "quieter",
+        "trans": ["adj. 更安静的"],
+        "usphone": "ˈkwaɪətər",
+        "ukphone": "ˈkwaɪətər"
+    },
+    {
+        "name": "hold appeal",
+        "trans": ["有吸引力"]
+    },
+    {
+        "name": "tranquility",
+        "trans": ["n. 宁静; 平静"],
+        "usphone": "træŋˈkwɪləti",
+        "ukphone": "træŋˈkwɪləti"
+    },
+    {
+        "name": "secluded",
+        "trans": ["adj. 隐蔽的; 隐秘的; 被隔离的"],
+        "usphone": "sɪˈkludɪd",
+        "ukphone": "sɪˈkluːdɪd"
+    },
+    {
+        "name": "retreat",
+        "trans": ["n. 撤退; 隐居处; 静修之地", "v. 撤退; 退却; 隐退"],
+        "usphone": "rɪˈtrit",
+        "ukphone": "rɪˈtriːt"
+    },
+    {
+        "name": "undoubtedly",
+        "trans": ["adv. 无疑地; 确定地"],
+        "usphone": "ˌʌnˈdaʊtɪdli",
+        "ukphone": "ˌʌnˈdaʊtɪdli"
+    },
+    {
+        "name": "enticing",
+        "trans": ["adj. 诱人的; 迷人的"],
+        "usphone": "ɪnˈtaɪsɪŋ",
+        "ukphone": "ɪnˈtaɪsɪŋ"
+    },
+    {
+        "name": "respite",
+        "trans": ["n. 暂时的休息; 喘息"],
+        "usphone": "ˈrɛspaɪt",
+        "ukphone": "ˈrɛspaɪt"
+    },
+    {
+        "name": "cacophony",
+        "trans": ["n. 刺耳的嘈杂声"],
+        "usphone": "kəˈkɑːfəni",
+        "ukphone": "kəˈkɒfəni"
+    },
+    {
+        "name": "urban",
+        "trans": ["adj. 城市的; 都市的"],
+        "usphone": "ˈɜːrbən",
+        "ukphone": "ˈɜːbən"
+    },
+    {
+        "name": "characterize",
+        "trans": ["v. 描述...的特性; 成为...的特征"],
+        "usphone": "ˈkærɪktəraɪz",
+        "ukphone": "ˈkærɪktəraɪz"
+    },
+    {
+        "name": "excessive",
+        "trans": ["adj. 过多的; 过分的; 过度的"],
+        "usphone": "ɪkˈsɛsɪv",
+        "ukphone": "ɪkˈsɛsɪv"
+    },
+    {
+        "name": "relentless",
+        "trans": ["adj. 无情的; 持续的; 不屈不挠的"],
+        "usphone": "rɪˈlɛntlɪs",
+        "ukphone": "rɪˈlentlɪs"
+    },
+    {
+        "name": "vehicular traffic",
+        "trans": ["车辆交通"]
+    },
+    {
+        "name": "collective",
+        "trans": ["adj. 集体的; 共同的; 集体所有的", "n. 集体; 团体"],
+        "usphone": "kəˈlɛktɪv",
+        "ukphone": "kəˈlɛktɪv"
+    },
+    {
+        "name": "infringe",
+        "trans": ["v. 违反; 侵害; 侵犯"],
+        "usphone": "ɪnˈfrɪndʒ",
+        "ukphone": "ɪnˈfrɪndʒ"
+    }
+]
