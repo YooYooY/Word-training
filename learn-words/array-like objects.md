@@ -1,0 +1,12 @@
+resemble
+indices
+contrast
+modification
+conversion
+retrieval
+tailored
+leverage
+quirks
+limitation
+straightforward
+syntax
