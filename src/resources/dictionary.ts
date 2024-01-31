@@ -17,6 +17,17 @@ const chinaExam: DictionaryResource[] = [
     languageCategory: 'en',
   },
   {
+    id: '0_study_frondEnd_1',
+    name: '0_study_frondEnd_1',
+    description: '0_study_frondEnd_1',
+    category: '中国考试',
+    tags: ['cvl前端学习'],
+    url: '/dicts/0_study_frondEnd_1.json',
+    length: 39,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
     id: '0_study_IELTS_1',
     name: '0_study_IELTS_1',
     description: '0_study_IELTS_1',
