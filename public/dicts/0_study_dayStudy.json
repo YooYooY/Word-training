@@ -1,0 +1,629 @@
+[
+	{
+		"name": "grants",
+		"trans": [
+			"n. 补助金；政府奖助；津贴; v. 同意；授予；承认"
+		]
+	},
+	{
+		"name": "instrument",
+		"trans": [
+			"n. 乐器; 器械；仪器；器具; 仪器，仪表; 促成某事的人；手段; 受利用的人、工具; 文据；正式法律文件; 可以在金融市场上进行交易的投资; v. 用仪器装备; 为管弦乐队编; 向…提交..."
+		]
+	},
+	{
+		"name": "cliche",
+		"trans": [
+			"n. 陈词滥调；铅版；陈腐思想; adj. 陈腐的"
+		]
+	},
+	{
+		"name": "stereotype",
+		"trans": [
+			"n. 老套, 模式化的见解, 有老一套固定想法的人; vt. 把…模式化, 使成陈规",
+			"时 态:   stereotyped, stereotyping, stereotypes",
+			"名 ..."
+		]
+	},
+	{
+		"name": "reinforce",
+		"trans": [
+			"v. 加强；充实；使更强烈; 加固；使更结实; 为  增加力量；向增兵；增援; 给予…更多支持；为…提供更多证据",
+			"时 态:   reinforced, reinforcing, rei..."
+		]
+	},
+	{
+		"name": "endearing",
+		"trans": [
+			"adj. 使人喜欢的;讨人喜欢的"
+		]
+	},
+	{
+		"name": "chorus",
+		"trans": [
+			"n. 副歌; 合唱, 合唱队, 歌咏队; vt. 合唱, 齐声背诵, 异口同声地说"
+		]
+	},
+	{
+		"name": "tournament",
+		"trans": [
+			"n. 锦标赛; 联赛"
+		]
+	},
+	{
+		"name": "retour",
+		"trans": [
+			"vi. 归还；回到原地"
+		]
+	},
+	{
+		"name": "beaming",
+		"trans": [
+			"adj. 喜气洋洋的；愉快的；光亮的；耀眼的; v. 照耀"
+		]
+	},
+	{
+		"name": "ambassador",
+		"trans": [
+			"n. 大使, 使节形容词:   ambassadorial",
+			"名 词:   ambassadorship"
+		]
+	},
+	{
+		"name": "provost",
+		"trans": [
+			"n. 教务长；监狱看守；院长"
+		]
+	},
+	{
+		"name": "troupe",
+		"trans": [
+			"n. 剧团, 艺术团体; vi. 巡回演出",
+			"时 态:   trouped, trouping, troupes"
+		]
+	},
+	{
+		"name": "torture",
+		"trans": [
+			"vt. 折磨；拷问；歪曲; n. 拷问；折磨；歪曲",
+			"时 态:   tortured, torturing, tortures",
+			"名 词:   torturer"
+		]
+	},
+	{
+		"name": "quarantine",
+		"trans": [
+			"n. 检疫期; vt. 对…进行检疫隔离",
+			"时 态:   quarantined, quarantining, quarantines",
+			"形容词:   quarantinable"
+		]
+	},
+	{
+		"name": "understatement",
+		"trans": [
+			"n. 有节制的陈述或表达;少说;少报; 重事轻说;轻描淡写"
+		]
+	},
+	{
+		"name": "detour",
+		"trans": [
+			"n. 绕行的路; 绕道；兜圈子; vt. 绕道",
+			"时 态:   detoured，detouring，detours"
+		]
+	},
+	{
+		"name": "arduous",
+		"trans": [
+			"adj. 费力的；努力的；险峻的",
+			"副 词:   arduously",
+			"名 词:   arduousness"
+		]
+	},
+	{
+		"name": "norm",
+		"trans": [
+			"n. 规范，基准；定额，分配之工作量"
+		]
+	},
+	{
+		"name": "mindset",
+		"trans": [
+			"n. 心态；倾向；习惯；精神状态"
+		]
+	},
+	{
+		"name": "adventurous",
+		"trans": [
+			"adj. 爱冒险的; 大胆的；敢做敢为的; 充满危险的",
+			"副 词:   adventurously"
+		]
+	},
+	{
+		"name": "metropolitan",
+		"trans": [
+			"adj. 大都会的, 大城市的; 中心地区的, 正宗的"
+		]
+	},
+	{
+		"name": "abbreviation",
+		"trans": [
+			"n. 缩写; 缩写词"
+		]
+	},
+	{
+		"name": "criteria",
+		"trans": [
+			"n. 标准，条件"
+		]
+	},
+	{
+		"name": "convention",
+		"trans": [
+			"n. 大会; 习俗, 惯例; 协议, 协定"
+		]
+	},
+	{
+		"name": "parentheses",
+		"trans": [
+			"n. 圆括号,插入语,插曲"
+		]
+	},
+	{
+		"name": "comma",
+		"trans": [
+			"n. 逗号；停顿"
+		]
+	},
+	{
+		"name": "endeavor",
+		"trans": [
+			"n. 努力；尽力; vi. 努力；尽力; vt. 努力；尽力",
+			"时 态:   endeavored, endeavoring, endeavors"
+		]
+	},
+	{
+		"name": "linguistic",
+		"trans": [
+			"adj. 语言的, 语言学的, 语言研究的"
+		]
+	},
+	{
+		"name": "repertoire",
+		"trans": [
+			"n. 全部节目"
+		]
+	},
+	{
+		"name": "semicolon",
+		"trans": [
+			"n. 分号"
+		]
+	},
+	{
+		"name": "collaboration",
+		"trans": [
+			"n. 合作, 协作; 通敌"
+		]
+	},
+	{
+		"name": "visualization",
+		"trans": [
+			"n. 形象;形象化;想像"
+		]
+	},
+	{
+		"name": "digest",
+		"trans": [
+			"vt. 消化；吸收；融会贯通; vi. 消化; n. 摘要；文摘",
+			"时 态:   digested, digesting, digests"
+		]
+	},
+	{
+		"name": "pursued",
+		"trans": [
+			"v. 追击，追踪；继续从事"
+		]
+	},
+	{
+		"name": "episode",
+		"trans": [
+			"n. 插曲；插话；一段情节；有趣的事件"
+		]
+	},
+	{
+		"name": "aspiring",
+		"trans": [
+			"adj. 有抱负的；追求…的；高耸的; v. 立志"
+		]
+	},
+	{
+		"name": "explicitly",
+		"trans": [
+			"adv. 明白地,明确地"
+		]
+	},
+	{
+		"name": "arbitrary",
+		"trans": [
+			"adj. 随意的, 主观的; 专横的, 独断专行的",
+			"副 词:   arbitrarily",
+			"名 词:   arbitrariness"
+		]
+	},
+	{
+		"name": "competent",
+		"trans": [
+			"adj. 有能力的, 能胜任的副 词:   competently"
+		]
+	},
+	{
+		"name": "outclass",
+		"trans": [
+			"v. 比…高一等,大大超过时 态:   outclassed, outclassing, outclasses"
+		]
+	},
+	{
+		"name": "protocol",
+		"trans": [
+			"n. 礼仪；外交礼仪; 草案，草约；议定的条款，议定书",
+			"时 态:   protocoled ，protocolled protocoling ，protocolling protocols..."
+		]
+	},
+	{
+		"name": "portfolio",
+		"trans": [
+			"n. 公事包, 文件夹; 投资组合; 大臣或部长的职位或职责"
+		]
+	},
+	{
+		"name": "jive",
+		"trans": [
+			"n. 摇摆乐,隐语,摇摆舞; vi. 跳摇摆舞,哄骗; adj. 假的",
+			"时 态:   jived, jiving, jives"
+		]
+	},
+	{
+		"name": "preferably",
+		"trans": [
+			"adv. 更可取地;更好地;宁可"
+		]
+	},
+	{
+		"name": "applicant",
+		"trans": [
+			"n. 申请人, 求职人"
+		]
+	},
+	{
+		"name": "vouch",
+		"trans": [
+			"vt. 担保；证明；传出庭作证; vi. 保证；证明；确定",
+			"时 态:   vouched, vouching, vouches"
+		]
+	},
+	{
+		"name": "hesitant",
+		"trans": [
+			"adj. 踌躇的；迟疑的；犹豫不定的",
+			"副 词:   hesitantly"
+		]
+	},
+	{
+		"name": "subscription",
+		"trans": [
+			"n. 捐助，订阅，签名; 捐款；订阅费"
+		]
+	},
+	{
+		"name": "minuscule",
+		"trans": [
+			"n. 小写字；草写小字; adj. 用草写小字写的；极小的",
+			"形容词:   minuscular"
+		]
+	},
+	{
+		"name": "qualification",
+		"trans": [
+			"n. 合格证书; 资格, 条件; 限制, 限定性条件"
+		]
+	},
+	{
+		"name": "widen",
+		"trans": [
+			"vt. & vi. 放宽, 加宽, 变宽时 态:   widened, widening, widens",
+			"名 词:   widener"
+		]
+	},
+	{
+		"name": "sector",
+		"trans": [
+			"n. 部门；部分；防御地段；防区；扇形，扇区；象限仪；函数尺; vt. 把…分成扇形",
+			"时 态:   sectored, sectoring, sectors",
+			"形容词:   sec..."
+		]
+	},
+	{
+		"name": "opposed",
+		"trans": [
+			"adj. 敌对的；相反的; v. 使对立；反对"
+		]
+	},
+	{
+		"name": "prestige",
+		"trans": [
+			"n. 威望，声望；声誉",
+			"Prestige普雷斯蒂奇"
+		]
+	},
+	{
+		"name": "flashy",
+		"trans": [
+			"adj. 闪光的；瞬间的；俗丽的；暴躁的",
+			"比较级:   flashier, flashiest",
+			"副 词:   flashily",
+			"名 词:   flashiness"
+		]
+	},
+	{
+		"name": "grocery",
+		"trans": [
+			"n. 杂货业; 杂货店"
+		]
+	},
+	{
+		"name": "culminate",
+		"trans": [
+			"vt. & vi. 达到极点时 态:   culminated, culminating, culminates",
+			"名 词:   culmination"
+		]
+	},
+	{
+		"name": "drastically",
+		"trans": [
+			"adv. 大大地;彻底地; 激烈地"
+		]
+	},
+	{
+		"name": "surge",
+		"trans": [
+			"n. 洋溢, 奔放; 浪涛般汹涌奔腾; vi. 蜂拥而出; 洋溢, 奔放; 汹涌, 奔腾",
+			"时 态:   surged, surging, surges"
+		]
+	},
+	{
+		"name": "evolve",
+		"trans": [
+			"vt. & vi. 演变；进化时 态:   evolved，evolving，evolves",
+			"形容词:   evolvable",
+			"名 词:   evolvement"
+		]
+	},
+	{
+		"name": "spontaneously",
+		"trans": [
+			"adv. 自然地;自发地;不由自主地"
+		]
+	},
+	{
+		"name": "shiver",
+		"trans": [
+			"n. 颤抖，战栗；碎片; vi. 颤抖；哆嗦；打碎; vt. 颤抖；打碎",
+			"时 态:   shivered, shivering, shivers"
+		]
+	},
+	{
+		"name": "consequence",
+		"trans": [
+			"n. 结果, 后果; 重要, 重大"
+		]
+	},
+	{
+		"name": "neutral",
+		"trans": [
+			"adj. 中立的，中性的；中立国的；非彩色的; n. 中立国；中立者；非彩色；齿轮的空档",
+			"副 词:   neutrally"
+		]
+	},
+	{
+		"name": "consciously",
+		"trans": [
+			"adv. 有意识地; 自觉地"
+		]
+	},
+	{
+		"name": "subconsciously",
+		"trans": [
+			"adv. 潜意识地"
+		]
+	},
+	{
+		"name": "imitate",
+		"trans": [
+			"vt. 模仿; 把…作为例子",
+			"时 态:   imitated, imitating, imitates",
+			"名 词:   imitator"
+		]
+	},
+	{
+		"name": "articulate",
+		"trans": [
+			"adj. 表达能力强的; 口齿清楚的，发音清晰的; vt. & vi. 清楚地表达; 形成关节；连接",
+			"时 态:   articulated，articulating，articulates..."
+		]
+	},
+	{
+		"name": "mandarin",
+		"trans": [
+			"n. 官话; 中国政府的高级官员"
+		]
+	},
+	{
+		"name": "relatable",
+		"trans": [
+			"adj. 有关系的，可关联的；能引起共鸣的；使人觉得自己能理解某人"
+		]
+	},
+	{
+		"name": "lunar",
+		"trans": [
+			"adj. 月的, 月球的；；阴历的；银的；微亮的"
+		]
+	},
+	{
+		"name": "inclusive",
+		"trans": [
+			"adj. 包括…的, 包括一切的; 包括所述的限度",
+			"副 词:   inclusively",
+			"名 词:   inclusiveness"
+		]
+	},
+	{
+		"name": "inspiration",
+		"trans": [
+			"n. 灵感；妙计；吸气；鼓舞"
+		]
+	},
+	{
+		"name": "asymmetry",
+		"trans": [
+			"n. 不对称; adj. 不对称的，不对等的"
+		]
+	},
+	{
+		"name": "downturn",
+		"trans": [
+			"n. 开始下降"
+		]
+	},
+	{
+		"name": "diet",
+		"trans": [
+			"n. 日常饮食; 规定饮食; vt. & vi. 节制饮食",
+			"时 态:   dieted, dieting, diets",
+			"名 词:   dieter"
+		]
+	},
+	{
+		"name": "cohort",
+		"trans": [
+			"n. 一群；步兵大队；支持者；同生群"
+		]
+	},
+	{
+		"name": "seminar",
+		"trans": [
+			"n. 讨论会，研讨班"
+		]
+	},
+	{
+		"name": "rehabilitation",
+		"trans": [
+			"n. 修复；复兴; 复职；恢复名誉，昭雪; 康复，更新；改过迁善"
+		]
+	},
+	{
+		"name": "brainwash",
+		"trans": [
+			"vt. 对…进行洗脑,把某种思想强加于,通过宣传灌输说服; n. 洗脑",
+			"时 态:   brainwashed, brainwashing, brainwashes"
+		]
+	},
+	{
+		"name": "tactics",
+		"trans": [
+			"n. 战术; 策略,手段",
+			"tactic的复数"
+		]
+	},
+	{
+		"name": "propaganda",
+		"trans": [
+			"n. 宣传, 宣传运动名 词:   propagandism",
+			"名 词:   propagandist",
+			"形容词:   propagandistic"
+		]
+	},
+	{
+		"name": "quarterly",
+		"trans": [
+			"n. 季刊; adj. 一年四次的, 每季的; adv. 一年四次地, 每季地"
+		]
+	},
+	{
+		"name": "obsess",
+		"trans": [
+			"v. 使痴迷，使迷恋；使心神不宁，不停地困扰； 唠叨；挂牵，念念不忘时 态:   obsessed, obsessing, obsesses"
+		]
+	},
+	{
+		"name": "journalism",
+		"trans": [
+			"n. 新闻业"
+		]
+	},
+	{
+		"name": "immersion",
+		"trans": [
+			"n. 沉浸; 洗礼"
+		]
+	},
+	{
+		"name": "caption",
+		"trans": [
+			"n. 字幕；标题；说明；逮捕; vt. 加上说明；加上标题",
+			"时 态:   captioned, captioning, captions"
+		]
+	},
+	{
+		"name": "commute",
+		"trans": [
+			"vt. 交换；减刑；用……交换；使……变成; vi. 通勤；代偿; n. 通勤",
+			"时 态:   commuted, commuting, commutes"
+		]
+	},
+	{
+		"name": "intonation",
+		"trans": [
+			"n. 语调;说话的抑扬顿挫"
+		]
+	},
+	{
+		"name": "intermediate",
+		"trans": [
+			"adj. 中间的；中级的时 态:   intermediated，intermediating，intermediates",
+			"名 词:   intermediacy",
+			"副 词:   ..."
+		]
+	},
+	{
+		"name": "suites",
+		"trans": [
+			"n. 套房；组曲；餐厅套件；程序组"
+		]
+	},
+	{
+		"name": "preprocessor",
+		"trans": [
+			"n. 预处理程序"
+		]
+	},
+	{
+		"name": "encompass",
+		"trans": [
+			"vt. 围绕；包围时 态:   encompassed，encompassing，encompasses"
+		]
+	},
+	{
+		"name": "coercion",
+		"trans": [
+			"n. 强迫；强制；高压政治；威压",
+			"形容词:   coercionary"
+		]
+	},
+	{
+		"name": "versus",
+		"trans": [
+			"prep. 对；与...相对；对抗"
+		]
+	}
+]

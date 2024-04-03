@@ -1,10 +1,28 @@
-import type { Dictionary, DictionaryResource } from '@/typings/index';
-import { calcChapterCount } from '@/utils';
-
+import type { Dictionary, DictionaryResource } from '@/typings/index'
+import { calcChapterCount } from '@/utils'
 
 // 中国考试
 // 0_study_frondEnd_0.json
 const chinaExam: DictionaryResource[] = [
+  
+   
+   
+   /***** replace content start *****/
+      {
+        id: '0_study_dayStudy',
+        name: '0_study_dayStudy',
+        description: '0_study_dayStudy',
+        category: '中国考试',
+        tags: ['cvl前端学习'],
+        url: '/dicts/0_study_dayStudy.json',
+        length: 96,
+        language: 'en',
+        languageCategory: 'en',
+      },
+    /***** replace content end *****/
+  
+  
+  
   {
     id: '0_study_frondEnd_0',
     name: '0_study_frondEnd_0',
