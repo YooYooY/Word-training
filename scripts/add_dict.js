@@ -49,8 +49,6 @@ async function getAllWords() {
     })
 }
 
-// getAllWords()
-
 function writeFile(content) {
   const file = path.join(__dirname, '../public/dicts/0_study_dayStudy.json')
 
@@ -112,7 +110,7 @@ async function task() {
 
   await updateDictionaryContent(updatedText)
 
-  console.log('done')
+  console.log(`总共新增单词『${size}』个`)
 }
 
 task()
